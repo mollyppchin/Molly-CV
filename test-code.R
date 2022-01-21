@@ -2,4 +2,6 @@
 
 print("Hello")
 
-# I am adding more code
+# Make x
+
+x <- 1:10
