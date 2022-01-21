@@ -1,2 +1,2 @@
-# Molly-CV
+# NHMR-course
 2022-01-21
